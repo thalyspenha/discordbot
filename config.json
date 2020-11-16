@@ -1,0 +1,13 @@
+{
+  "discord": {
+    "token": "NzY0MTk0NTcwNjk0Mjk1NTky.X4Ctpw._rCTd7DImx5S-mbANlB8A3J73so",
+    "appId": "764194570694295592",
+    "appSecret": "JiRAs96zHVjeYzGaVCehGkFflWUtAuX-",
+    "CommandPrefix": "/"
+  },
+
+  "images": {
+    "caminho": "F:\\Discord Bot\\Imagens"
+  }
+
+}
